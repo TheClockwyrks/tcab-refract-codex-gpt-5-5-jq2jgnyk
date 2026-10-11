@@ -1,0 +1,11 @@
+[[media]]
+file = "trace.png"
+name = "A beam traced across the board"
+
+[[media]]
+file = "board.png"
+name = "Campaign board one"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
